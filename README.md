@@ -1,2 +1,1 @@
-# TransEvolver
-架构移植工具
+# Common technology architecture transmission tool
